@@ -1,0 +1,77 @@
+.signatureCanvas {
+    border: 1px solid black;
+    width: 100%;
+    min-height: 500px;
+  }
+  
+  .save-btn {
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 21px;
+    min-width: 100px;
+    background: #1363b9;
+    border: none;
+    color: #FFFFFF;
+    margin: 5px;
+    font-size: 18px;
+  }
+  
+  .clear-btn {
+    border-radius: 6px;
+    padding: 15px;
+    margin-bottom: 21px;
+    min-width: 100px;
+    background: #FFFFFF;
+    border: none;
+    color: #1363b9;
+    border: 1px solid #1363b9;
+    margin: 5px;
+    font-size: 18px;
+  }
+  
+  .signature-img {
+    width: 300px !important;
+    height: 200px !important;
+  }
+  
+  .layout-title {
+    text-align: left;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  
+  .ant-layout-header {
+    background-color: rgba(255, 255, 255, 0.2) !important;
+  }
+  .header-layout {
+    padding: 20px 0;
+    background-color: #001529;
+  }
+  
+  .ant-layout-sider  {
+    background-color: #FFFFFF !important;
+  }
+  
+  .ant-menu-dark {
+    background-color: #FFFFFF !important;
+  }
+  
+  .header-layout {
+    padding: 10px;
+    background-color: #1976d2 !important;
+    margin-bottom: 10px;
+    text-align: left;
+  }
+  
+  .ant-menu-title-content {
+    font-size: 16.5px;
+  }
+  
+  .btn-submit {
+    text-align: center;
+    background-color: #1976d2;
+    color: #FFFFFF;
+    margin: auto;
+  }
+  
